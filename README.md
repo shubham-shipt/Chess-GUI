@@ -1,16 +1,16 @@
-# Chess-GUI (C++ with SFML)
 
-## About the Project
+
+
 Chess-GUI is a simple graphical chess game built using **C++** and the **SFML** library. This game provides an interactive UI for playing chess against another player or integrating an external chess engine like **Stockfish**.
 
-## Features
+
 - Fully functional chessboard with a graphical interface.
 - Supports two-player mode.
 - Option to integrate chess engines (e.g., **Stockfish**).
 - Smooth and responsive UI.
 - Standard chess rules implementation.
 
-## Prerequisites
+
 To run this project, you need the following:
 - **C++ Compiler** (MinGW for Windows, g++ for Linux/macOS)
 - **SFML Library** ([Download Here](https://www.sfml-dev.org/download.php))
