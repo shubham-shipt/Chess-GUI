@@ -57,7 +57,7 @@ To enhance gameplay, integrate Stockfish:
 - The game follows standard chess rules.
 
 ## Screenshots
-(Add gameplay screenshots here)
+
 
 ## Contributing
 Feel free to contribute by submitting a pull request!
