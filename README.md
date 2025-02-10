@@ -59,11 +59,6 @@ To enhance gameplay, integrate Stockfish:
 ## Screenshots
 
 
-## Contributing
-Feel free to contribute by submitting a pull request!
-
-## License
-This project is open-source under the **MIT License**.
 
 ## Contact
 For queries or improvements, contact:
