@@ -64,4 +64,4 @@ To enhance gameplay, integrate Stockfish:
 For queries or improvements, contact:
 - **GitHub:** [shubham-shipt](https://github.com/shubham-shipt)
 - **Email:** your.email@example.com
-
+.. ;
