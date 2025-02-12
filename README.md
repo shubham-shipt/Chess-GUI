@@ -40,6 +40,7 @@ To run this project, you need the following:
    g++ -std=c++17 main.cpp -o chess -lsfml-graphics -lsfml-window -lsfml-system
    ```
 
+
 4. **Run the Game:**
    ```sh
    ./chess
@@ -57,7 +58,8 @@ To enhance gameplay, integrate Stockfish:
 - The game follows standard chess rules.
 
 ## Screenshots
-
+   
+![Screenshot 2025-02-10 180236](https://github.com/user-attachments/assets/0b488565-4672-4d06-a171-d66bc82e216e)
 
 
 ## Contact
