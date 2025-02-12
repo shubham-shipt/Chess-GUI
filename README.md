@@ -59,7 +59,8 @@ To enhance gameplay, integrate Stockfish:
 
 ## Screenshots
    
-![Screenshot 2025-02-10 180236](https://github.com/user-attachments/assets/0b488565-4672-4d06-a171-d66bc82e216e)
+![Uploading Screenshot 2025-02-10 182451.png…]()
+
 
 
 ## Contact
